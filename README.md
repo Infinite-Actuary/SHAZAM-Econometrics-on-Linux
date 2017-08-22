@@ -38,6 +38,8 @@
 
 * In `~/.wine/drive_c/SHAZAM/`, right click `SHAZAMW.exe` and open the windows application with Wine Windows program loader (*Shazamd* & *Shazamq.exe* are command line tools)
 
+* Make sure to choose **Trial SHAZAM** or the program will close
+
 ## Getting Started
 
 [Whistler's Guide](http://www.econometrics.com/intro/)
