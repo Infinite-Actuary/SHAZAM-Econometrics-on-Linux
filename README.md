@@ -43,6 +43,6 @@
 ## Getting Started
 
 * SHAZAM Workspaces (*.shw*) are saved to `~WINE_PREFIX/drive_c/users/{user}/Temp/{workspace}`
-For example `~/home/carlc/.wine/drive_c/users/carlc/Temp/SHAZDemo` is where you will find all of the SHAZAM data (*.sda*) and SHAZAM scripts (*.sha*) for the `SHAZDemo` workspace.
+For example `~/home/carlc/.wine/drive_c/users/carlc/Temp/SHAZDemo` is where you will find all of the SHAZAM data (*.sda* or *.dat*) and SHAZAM scripts (*.sha*) for the `SHAZDemo` workspace.
 
 [Whistler's Guide](http://www.econometrics.com/intro/)
